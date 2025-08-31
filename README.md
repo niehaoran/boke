@@ -28,18 +28,3 @@ A static blog template built with [Astro](https://astro.build).
 | `pnpm new-post <filename>` | 创建新文章                                   |
 | `pnpm astro ...`           | 运行 Astro CLI 命令如 `astro add`, `astro check` |
 | `pnpm astro --help`        | 获取 Astro CLI 帮助                         |
-
-## 📝 文章配置
-
-```yaml
----
-title: 我的第一篇博客文章
-published: 2023-09-09
-description: 这是我新 Astro 博客的第一篇文章。
-image: ./cover.jpg
-tags: [标签1, 标签2]
-category: 前端
-draft: false
-lang: zh_CN
----
-```
