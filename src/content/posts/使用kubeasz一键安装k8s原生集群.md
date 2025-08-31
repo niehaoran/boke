@@ -2,7 +2,7 @@
 title: 使用kubeasz一键安装k8s原生集群
 published: 2025-08-27
 description: '详细介绍如何使用kubeasz工具部署高可用的Kubernetes原生集群'
-image: 'assets/images/k8s.png'
+image: '/src/assets/images/k8s.png'
 tags: [kubernetes, k8s, kubeasz, 集群部署]
 category: 'k8s'
 draft: false
